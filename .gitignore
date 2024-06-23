@@ -3,3 +3,4 @@ __pycache__/
 .env
 sounds/
 env/
+tiny.pt
